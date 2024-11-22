@@ -1,0 +1,4 @@
+name: No Bad Recipies
+version: '${project.version}'
+main: com.tenth.nobadrecipies.NoBadRecipies
+api-version: '1.21'
